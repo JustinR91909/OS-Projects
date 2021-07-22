@@ -1,6 +1,6 @@
 # OS-Projects
 Projects I did while in operating systems class
 
-OSproj1 = page replacement algorithms
+PageReplacement = page replacement algorithms (FIFO, LRU, Optimal)
 
-JobScheduling = OS job scheduling algorithms
+JobScheduling = OS job scheduling algorithms (FCFS, SJF, RR)
